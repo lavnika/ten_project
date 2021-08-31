@@ -1,0 +1,11 @@
+.accordions {
+    text-align: center;
+    margin: 2rem 2rem;
+    padding:2rem 2rem;
+    background-color: beige;
+}
+
+.accordion-item {
+    margin: 2rem 2rem;
+    padding:2rem 2rem;
+}

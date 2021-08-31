@@ -1,0 +1,13 @@
+.carousel {
+  margin: 2rem;
+    padding: 2rem;
+    background: rgb(43, 42, 57);
+    color: rgb(255, 255, 255);
+  } 
+.carouselitem {
+padding: 10rem;
+}
+
+.carousel h2 {
+  text-align: center;
+}
